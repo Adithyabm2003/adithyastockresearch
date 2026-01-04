@@ -1,0 +1,9 @@
+streamlit
+google-genai
+apify-client
+pypdf
+requests
+pandas
+dotenv
+tenacity
+fpdf
